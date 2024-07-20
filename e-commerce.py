@@ -58,7 +58,7 @@ class Customer:
 product1 = Product(1, "iPhone", 1000)
 product2 = Product(2, "Headphones", 100)
 product3 = Product(3, "Keyboard", 50)
-product4 = Product(6, "Laptop Mac Book", 2000)
+product4 = Product(4, "Laptop Mac Book", 2000)
 product5 = Product(5, "Dell Laptop", 1500)
 product6 = Product(6, "Ipad", 1250)
 
